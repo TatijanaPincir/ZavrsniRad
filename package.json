@@ -1,0 +1,22 @@
+{
+  "name": "zavrsnirad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatijanaPincir/ZavrsniRad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatijanaPincir/ZavrsniRad/issues"
+  },
+  "homepage": "https://github.com/TatijanaPincir/ZavrsniRad#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
